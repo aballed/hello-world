@@ -2,3 +2,4 @@
 This is my first trial repository. 
 I just started working at EdAnalytics and am learning how to use GitHub. 
 I hope I can learn fast. 
+I just copied this repo into my personal computer.
